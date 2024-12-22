@@ -1,0 +1,56 @@
+.heading{
+  text-align: center;
+}
+.container{
+  max-width: 500px;
+  margin: 0 auto;
+  font-size: 16px;
+  background-color: #4C4B4B;
+  border-radius: 10px;
+  min-height: 300px;
+  padding-top: 20px;
+  padding-bottom: 10px;
+}
+.input-box{
+  margin-left: 100px;
+}
+.input-box input{
+  padding: 10px;
+  width: 200px;
+  border-radius: 6px;
+  background-color: #A4B0BD;
+  border: none;
+  color: black;
+}
+.input-box button{
+ padding: 10px;
+ width: 100px;
+ border-radius: 6px;
+ background-color: #0A79DF;
+ color: white;
+ border: none;
+ margin-left: 5px;
+}
+.list{
+ text-align: left;
+}
+.list ul li{
+  background-color:#99AAAB;
+  color: black;
+  width: 400px;
+  height: 20px;
+  padding: 20px;
+  border-radius: 10px;
+  margin-bottom: 10px;
+  list-style-type: none;
+}
+.icon{
+  margin-left: 370px; 
+}
+.delete{
+  color: #3C40C6;
+}
+.edit{
+  color: #019031;
+} 
+
